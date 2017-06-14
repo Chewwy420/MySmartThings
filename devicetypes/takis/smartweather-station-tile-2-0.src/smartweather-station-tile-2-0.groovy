@@ -15,6 +15,7 @@
 *  Author: SmartThings
 *
 *  Date: 2013-04-30
+*  Update 2017.6.14
 */
 metadata {
     definition (name: "SmartWeather Station Tile 2.0", namespace: "takis", author: "Takis") {
